@@ -1,0 +1,12 @@
+{
+  "name": "my-first-server",
+  "version": "1.0.0",
+  "description": "Web Server บน Railway - นางสาวลักษิกา เกตุศรีแก้ว",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
